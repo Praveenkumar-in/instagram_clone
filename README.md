@@ -58,7 +58,7 @@ instagram-clone/
 ```
 
 
-###1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 
 git clone <https://github.com/Praveenkumar-in/instagram_clone>
 cd instagram-clone
@@ -66,14 +66,14 @@ cd instagram-clone
 
 ---
 
-###2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 
 npm install
 
 
 ---
 
-###3️⃣ Install Bootstrap Icons
+### 3️⃣ Install Bootstrap Icons
 
 npm install bootstrap-icons
 
@@ -84,35 +84,35 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 
 ---
 
-###4️⃣ Setup JSON Server
+### 4️⃣ Setup JSON Server
 
-Install globally:
+- Install globally:
 
-npm install -g json-server
+- npm install -g json-server
 
-Run server:
+- Run server:
 
 json-server --watch db.json --port **8000
 
-API Endpoint:
+- API Endpoint:
 
 http://localhost:5173/stories
 
 
 ---
 
-###5️⃣ Start React App
+### 5️⃣ Start React App
 
-npm run dev
+- npm run dev
 
 or
 
-npm start
+- npm start
 
 
 ---
 
-###🗄 Sample db.json
+###  🗄 Sample db.json
 ```md
 {
   "stories": [
@@ -132,42 +132,41 @@ npm start
 }
 ```
 ---
+ ### 🎨 UI Notes
 
-###🎨 UI Notes
+- Horizontal scroll stories row
 
-Horizontal scroll stories row
+- Circular avatars with story ring style
 
-Circular avatars with story ring style
+- Username label below avatar
 
-Username label below avatar
+- Click story opens viewer component
 
-Click story opens viewer component
-
-Bootstrap icons used for navbar and actions
-
-
-
----
-
-###🔮 Future Improvements
-
-Add posts feed
-
-Add like & comment buttons
-
-Add authentication
-
-Add story progress bar
-
-Auto-play stories
-
-Mobile swipe gestures
+- Bootstrap icons used for navbar and actions
 
 
 
 ---
 
-##👨‍💻 Author
+### 🔮 Future Improvements
+
+- Add posts feed
+
+- Add like & comment buttons
+
+- Add authentication
+
+- Add story progress bar
+
+- Auto-play stories
+
+- Mobile swipe gestures
+
+
+
+---
+
+##  👨‍💻 Author
 
 Praveen Kumar
 React Frontend Learner
