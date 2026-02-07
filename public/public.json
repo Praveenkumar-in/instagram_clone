@@ -1,0 +1,126 @@
+  {
+  
+  "posts": [
+    {     "id":1,
+         "user": {
+     "id": 101, "username": "john_doe",  "profile_pic": "/assets/profile4.jpg" },
+     
+      "image": "/assets/sunset.jpg",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        { "userId": 102, "comment": "Wow! Amazing shot! 📸" },
+        { "userId": 103, "comment": "Where is this place?" }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "user":{"id": 102, "username": "sara_doe",  "profile_pic": "/assets/profile1.jpg" },
+      
+      "image": "/assets/mountain.jpg",
+      "caption": "Hiking in the mountains today. Pure bliss! 🌲 #Hiking",
+      "likes": 255,
+      "comments": [
+        { "userId": 105, "comment": "So jealous! Looks incredible." }
+      ],
+      "timestamp": "2025-02-12T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "user":{"id": 103, "username": "'insta_snapqueen'",  "profile_pic": "/assets/profile3.jpg" },
+      
+      "image": "/assets/street.jpg",
+      "caption": "The streets of Rome never disappoint. 🇮🇹 #Travel",
+      "likes": 88,
+      "comments": [
+        { "userId": 101, "comment": "Enjoy the trip!" }
+      ],
+      "timestamp": "2025-02-13T18:05:00Z"
+    },
+    {
+      "id": 4,
+      "user":{"id": 104, "username": "insta_coder_raj",  "profile_pic": "/assets/profile5.jpg" },
+      "image": "/assets/coffe.webp",
+      "caption": "Fresh coffee and a new book. Perfect morning. ☕ #WeekendVibes",
+      "likes": 95,
+      "comments": [
+        { "userId": 104, "comment": "What book is that?" }
+      ],
+      "timestamp": "2025-02-14T08:00:00Z"
+    },
+    {
+      "id": 5,
+      "user":{"id": 105, "username": "insta_pixelguru",  "profile_pic": "/assets/profile2.jpg" },
+      "image": "/assets/music.jpg",
+      "caption": "Just dropped a new track! Link in bio. 🎶 #Music",
+      "likes": 310,
+      "comments": [
+        { "userId": 105, "comment": "Going to check it out now!" },
+        { "userId": 101, "comment": "Fire!" }
+      ],
+      "timestamp": "2025-02-15T19:20:00Z"
+    }
+  ],
+  "profile":{ 
+     "id": 101, "username": "sam_tha",  "profile_pic": "/assets/s6.jpg" },
+
+  "suggestion":[{"id": 104, "username": "shai__pallavi",  "profile_pic": "/assets/s5.jpg"}
+  ,{"id": 103, "username": "world_queen'",  "profile_pic": "/assets/s3.jpg"},
+  {"id": 106, "username": "insta_fav",  "profile_pic": "/assets/s1.jpg"},{"id": 105, "username": "isha_clone",  "profile_pic": "/assets/s4.jpg"},{"id": 102, "username": "lady_queen",  "profile_pic": "/assets/s2.jpg"}]
+,
+"story": 
+   [ {     "id":1,
+         "user": {
+     "id": 101, "username": "john_sins",  "profile_pic": "/assets/p4.jpg" },
+     
+      "img": "/assets/str4.jpg"
+      
+    },
+    {
+      "id": 2,
+      "user":{"id": 102, "username": "sara_doe",  "profile_pic": "/assets/p1.jpg" },
+      
+      "img": "/assets/str5.jpg"
+      
+    },
+    {
+      "id": 3,
+      "user":{"id": 103, "username": "queen",  "profile_pic": "/assets/p3.jpg" },
+      
+      "img": "/assets/str1.jpg"
+    
+    },
+    {
+      "id": 4,
+      "user":{"id": 104, "username": "coder_raj",  "profile_pic": "/assets/p5.jpg" },
+      "img": "/assets/str2.jpg"
+      
+    },
+    {
+      "id": 5,
+      "user":{"id": 105, "username": "_pixelguru",  "profile_pic": "/assets/p2.jpg" },
+      "img": "/assets/str3.jpg"
+     
+    } ,{
+      "id": 6,
+      "user":{"id": 106, "username": "san_jaina",  "profile_pic": "/assets/profile2.jpg" },
+      "img": "/assets/str1.jpg"
+     
+    } ,{
+      "id": 7,
+      "user":{"id": 107, "username": "_gopi",  "profile_pic": "/assets/s6.jpg" },
+      "img": "/assets/music.jpg"
+     
+    } ,{
+      "id": 8,
+      "user":{"id": 108, "username": "k7",  "profile_pic": "/assets/s1.jpg" },
+      "img": "/assets/p5.jpg"
+     
+    } ,{
+      "id": 9,
+      "user":{"id": 109, "username": "guru",  "profile_pic": "/assets/s2.jpg" },
+      "img": "/assets/profile4.jpg"
+     
+    } 
+   ]}
