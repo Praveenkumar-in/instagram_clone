@@ -55,3 +55,8 @@ instagram-clone/
 │
 |
 └── package.json
+
+## ⚙️ Installation & Setup
+  npm install
+
+
