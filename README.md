@@ -179,3 +179,6 @@ This project was built as a practice project to learn React components, UI cloni
 ⭐ If you like this project, give it a star on GitHub!
 
 
+## License
+This project is licensed under the MIT License © 2026 Praveen Kumar
+
